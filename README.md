@@ -6,4 +6,4 @@
 - 整理各类对数组进行操作的函数 / JSON深拷贝函数 / 字符串倒序函数 / 操作数组并仅仅返回正数值函数 -- 数组函数
 - 整理splice函数实现push、pop、shift、unshift的数组方法
 - 整理一个JavaScript的选择双色球号码的脚本函数  -- JavaScript-双色球摇奖函数
-- 整理一个关于Date时间戳相关的函数
+- 整理一个关于Date时间戳相关的函数  --  Date函数
