@@ -19,3 +19,6 @@
 #### 2018.7.31
 - 整理 通过navigator.userAgent配合正则判断用户浏览器类型的函数 -- 判断用户浏览器类型函数.js
 - 整体 使用localStorage封装的Storage对象（浏览器存储相关） --  Storage对象.js
+
+#### 2018.8.1
+- 整理 关于GET、POST类型下的ajax用法和利用JavaScript封装的ajax  --  GET-POST类型ajax用法和ajax封装.js
