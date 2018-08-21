@@ -24,3 +24,6 @@
 - 整理 关于GET、POST类型下的ajax用法和利用JavaScript封装的ajax  --  GET-POST类型ajax用法和ajax封装.js
 
   <font color=orange>将所有js文件文件名都添加了具体时间，方便更快查找</font>
+  
+#### 2018.8.21
+- 在 2018.7.23-数组函数.js 中新增了一个格式化搜索的数组函数
