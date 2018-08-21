@@ -70,3 +70,14 @@ function filterPositive(arr){
 var arr = [3,-1,2,'even',true]
 filterPositive(arr)
 console.log(arr)  //[3, 2]
+
+
+
+//声明一个格式化搜索字符串的函数 titleCase，该函数功能为自动格式化空格之后每个单词首字母为大写，便于匹配搜索
+function titleCase(s) {
+var i, ss = s.toLowerCase().split(/\s+/);  //把输入的值全部格式化成小写，再使用split方法匹配中间空格将其变为字符串数组
+for (i = 0; i < ss.length; i++) {
+    ss[i] = ss[i].slice(0, 1).toUpperCase() + ss[i].slice(1);  //使用slice方法，格式化第一个字符，将其大写
+}
+return ss.join(' ');
+}
